@@ -6,6 +6,6 @@
 
 Проект создан в процессе обучения верстке на Яндекс Практикуме.
 
-Проект можно посмотреть по ссылке: https://m1staken.github.io/russian-travel/
+<b>Проект можно посмотреть по ссылке: https://m1staken.github.io/russian-travel/</b>
 
 
